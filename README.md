@@ -1,5 +1,4 @@
-# web-dev-coursera
-HTML, CSS and JavaScript for web development by Johns Hopkins University.
+# Coursera: HTML, CSS & JavaScript for web Developers by Johns Hopkins University
 
 ## Course content:
 
